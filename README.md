@@ -1,6 +1,12 @@
 # Semana-Front-End-INTER
 Semana Front-end Inter - Reconstruir o Super App Inter na prática com React.
 
+Semana Front-end Developer INTER que objetiva-se entregar uma aplicação do zero com o resultado final de reproduzir um super API do banco INTER ministrado pela comunidade DIO.me e o Expert de mercado do banco INTER.
+
+Utilizaremos VS Code, Nodesjs, Typescript, PostgreesSQL, Docker
+
+Passo a passo:
+
 1)Baixar e Instalar o VS-Code:
 https://code.visualstudio.com/download
 
@@ -25,7 +31,6 @@ npm i
 
 7)Instalar yarn
 npm install--global yarn
-
 
 8)Instalar Express
 npm install express
