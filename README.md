@@ -1,7 +1,9 @@
 # Semana-Front-End-INTER
 (Semana Front-end Inter - Reconstruir o Super App Inter na prática com React)
 
+
 PROJETO QUE ANTECEDE O BOOTCAMP DO BANCO INTER:
+
 Nessa semana Front-end Developer INTER objetiva-se entregar uma aplicação do zero com o resultado final de reproduzir um super API do banco INTER para fazer transferencia em PIX - ministrado pela comunidade DIO.me e o Expert de mercado do banco INTER - Utilizaremos VS Code, Nodesjs, Typescript, PostgreesSQL, Docker
 
 
@@ -9,6 +11,7 @@ INSTRUÇÕES PARA EXECUÇÃO:
 
 
 Baixar e Instalar:
+
 •	VS-Code: https://code.visualstudio.com/download
 
 •	Extensões:  Prettier-Codeformatter /  EditorConfigforVSCode / ESLint
