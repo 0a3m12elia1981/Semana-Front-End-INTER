@@ -2,12 +2,12 @@
 (Semana Front-end Inter - Reconstruir o Super App Inter na prática com React)
 
 
-PROJETO QUE ANTECEDE O BOOTCAMP DO BANCO INTER:
+👩🏻‍💻PROJETO QUE ANTECEDE O BOOTCAMP DO BANCO INTER:
 
 Nessa semana Front-end Developer INTER objetiva-se entregar uma aplicação do zero com o resultado final de reproduzir um super API do banco INTER para fazer transferencia em PIX - ministrado pela comunidade DIO.me e o Expert de mercado do banco INTER - Utilizaremos VS Code, Nodesjs, Typescript, PostgreesSQL, Docker
 
 
-INSTRUÇÕES PARA EXECUÇÃO:
+🎯 INSTRUÇÕES PARA EXECUÇÃO:
 
 
 Baixar e Instalar:
@@ -34,3 +34,16 @@ Baixar e Instalar:
 
 •	Insomnia - https://www.postman.com/downloads/ 
 
+
+
+✔ Algumas execuções necessárias
+
+Testar o git no vs-code
+
+Clonar Projeto: https://github.com/pablohdev/dio-inter-clone-backend - Branch Template
+
+Rodar o docker (docker-compose up - na raiz onde estar o docker-compos.yaml)  
+
+Subir o servidor yarn start:dev
+
+Importar o json do insomnia para testes
